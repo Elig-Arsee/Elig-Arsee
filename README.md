@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/Elig-Arsee">
-    <img loading="lazy" style="width: 300px; height: 155px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elig-Arsee&layout=compact&langs_count=7&theme=onedark"/>
+    <img loading="lazy" style="width: 300px; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elig-Arsee&layout=compact&langs_count=7&theme=onedark"/>
   </a>
   <a href="https://github.com/Elig-Arsee">
     <img loading="lazy" style="width: 300px; height: 155px;" src="https://github-readme-stats.vercel.app/api?username=Elig-Arsee&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
