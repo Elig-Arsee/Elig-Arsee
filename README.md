@@ -26,9 +26,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<div>
-  <img loading="lazy" style="width: 605px; height: auto;" src="https://github-readme-stats.vercel.app/api/wakatime?username=@arselig&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-</div>
 
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
