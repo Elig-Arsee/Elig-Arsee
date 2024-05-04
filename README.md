@@ -25,12 +25,12 @@ Sou graduada em Ciências Sociais pela Universidade Federal de Santa Catarina, e
 
 <div>
   <a href="https://github.com/Elig-Arsee">
-    <img align="left" src="./profile-3d-contrib/profile-night-rainbow.svg" width="800" height="400">
+    <img align="left" src="./profile-3d-contrib/profile-night-rainbow.svg"width="800" height="400">
   </a>
 </div>
 
+---
 
-<br>
 <p align="center">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -57,7 +57,8 @@ Sou graduada em Ciências Sociais pela Universidade Federal de Santa Catarina, e
     <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white"/>
 </p>
 
-<br>
+---
+
 
   <br>
 
